@@ -1,0 +1,17 @@
+{
+  "name": "@exponent/exponent-cloud-packager",
+  "version": "1.0.0",
+  "description": "The cloud React Native packager for Exponent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native": "0.5.0-rc1",
+    "art": "^0.10.0",
+    "@ccheever/crayon": "^5.0.0",
+    "gulp": "^3.9.0"
+  },
+  "author": "exponent.team@gmail.com",
+  "license": "MIT"
+}
